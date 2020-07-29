@@ -1,5 +1,5 @@
 
-#**What We Have Learned Today!!!!!!**
+**What We Have Learned Today!!!!!!**
 =====================================
 ##1. 출력 종류
 ##2. 출력 자료형 종류  
