@@ -30,7 +30,8 @@ public class Main {
 //            System.out.println("병명을 양식에 맞기 기입 요망(5자 이하");
 //            s1=scanner.nextLine();
 //            if (s1.length() <= 5) {
-//                //y = s1;왜 y를 초기화 안해줬다고 나올까
+//                //y = s1;y를 초기화 안해줬다고 나올까=>if조건에 부합하면 초기화가 되고 아니면 y가 초기화가안되니까
+        //그리고 애초에 while(조건)이 잘못됫음
 //                break;
 //            }
 //        }

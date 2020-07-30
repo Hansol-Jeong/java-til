@@ -16,7 +16,7 @@ public class Main {
         //Count%Countnums=0
         //System.out.printf("b%32s\n", Integer.toBinaryString(1234>>4));
         System.out.println("시작한다");
-       // while (Mention =="Go") 이거 왜안될까
+       // while (Mention =="Go") 이거 왜안될까=>.equals()써라
         while(x==1)
         {
             do {
