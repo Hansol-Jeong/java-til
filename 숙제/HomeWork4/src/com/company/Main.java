@@ -7,8 +7,8 @@ public class Main {
         float first=0;
         float second=1;
         float baby=0;
-        System.out.printf("1:%.0f",first);
-        System.out.printf("2:%.0f",second);
+        System.out.printf("1: %.0f\n",first);
+        System.out.printf("2: %.0f\n",second);
 
         for(int i=3;i<seqLength+1;i++)
         {
