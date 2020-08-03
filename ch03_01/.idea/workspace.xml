@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4b6bd52-9f44-4488-93dc-1fbab8f29786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice03NDArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice1Loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice2Array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/ch02_s01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/out/production/ch02_s01/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s01/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/ch02_s02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/img/cry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/out/production/ch02_s02/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s02/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/README3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/ch02_s03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/img/black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/img/cry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/img/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/img/tomas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/out/production/ch02_s03/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s03/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/ch02_s04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/out/production/ch02_s04/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s04/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/ch02_s06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s06/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/ch02_s07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/out/production/ch02_s07/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s07/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/ch02_s08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/out/production/ch02_s08/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02_s08/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/HomeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/out/production/HomeWork/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/HomeWork2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/out/production/HomeWork2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/HomeWork3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/out/production/HomeWork3/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/HomeWork4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/out/production/HomeWork4/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork4/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/HomeWork6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/out/production/HomeWork6/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork5/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/HomeWork6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/out/production/HomeWork6/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork6/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/HomeWork7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/out/production/HomeWork7/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/HomeWork7/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../숙제/숙제.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fa0FKtTDuwAArqBPI9GkXvxh2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ch03" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ch03" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ch03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ch03" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b6bd52-9f44-4488-93dc-1fbab8f29786" name="Default Changelist" comment="" />
+      <created>1596440790771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596440790771</updated>
+      <workItem from="1596440792156" duration="4126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596444723915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596444723915" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596444922559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596444922559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596444922559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596444922559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596444922559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596444922559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596444922559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596444922559" />
+  </component>
+</project>
