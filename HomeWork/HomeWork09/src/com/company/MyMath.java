@@ -20,7 +20,6 @@ package com.company;
             return -x;
         else
             return x;
-
     }
     public static int floor(double x){
         return (int)x;
@@ -40,6 +39,5 @@ class Main {
         System.out.println(MyMath.abs(-2.3));
         System.out.println(MyMath.floor(-1.5232));
         System.out.println(MyMath.ceil(4.6452));
-
     }
 }
