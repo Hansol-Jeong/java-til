@@ -11,6 +11,7 @@ public class Main {
     static{
         System.out.println("static block1");
         classVar=20;//객체 만들기 전이라 객체변수에 접근 불가
+
     }
     //object initializer
     {

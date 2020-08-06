@@ -64,21 +64,35 @@ class Person{
     int example=3;//클래스 함수에 쓸 수 없다.
     public static void describe(){
         System.out.println(kor+"사람입니다.");//클래스 메소드는 클래스 변수를 사용할 수 있다. 단, 객체에 속하는 속성은 사용할 수 없다.
+        kor="에에?";
     }
     //인스턴스 메소드
     public void eat() {
-        isHungry =false;
+        System.out.println(example);//인스턴스 메소드에는 쓸 수 있다.
+        kor="빠가";
+        //isHungry =false;
+
     }
 }
 
 
 public class Methods {
-    public static void classMethod(){
-        System.out.println("클래스 메소드 호출");
+    int x;
+    int y;
+    static int z=10;
+    public static void classMethod(int x){
+        System.out.printf("클래스 메소드 호출%d",x);
+       //this.x=this.z;
+//        this.z=this.x;
+        z=20;
+        System.out.println("z="+z);
     }
-    public void instanceMethod(){
-        System.out.println("인스턴스 메소드 호출");
+    public void instanceMethod(int x){
+        System.out.printf("인스턴스 메소드 호출%d\n",x);
+        this.x=this.z;
+        this.z=this.x;
     }
+
     public static void main(String[] args) {
         Bar.classMethod();//정적메소드는 클래스이름으로 호출할 수 있지만
         //Bar.add() //인스턴스 메소드는 안된다 객체를 생성하고 해야한다.
@@ -111,11 +125,14 @@ public class Methods {
         System.out.println(Bar.sumAll(2,5,6,7,8,4));
         System.out.println(Bar.sumAll(2.2f,5.2f,6.2f,7.2f,8,4));
 
-        classMethod();//동일 클래스에 속한 클래스 메소드 호출
-        Methods.classMethod();//상위 클래스 붙여줄 수도 있고
+        classMethod(1);//동일 클래스에 속한 클래스 메소드 호출
+        Methods.classMethod(2);//상위 클래스 붙여줄 수도 있고
         Methods m= new Methods();
-        m.instanceMethod();
-       // Methods M= new Methods();
+        m.instanceMethod(1);
+        Methods M= new Methods();
+        M.instanceMethod(2);//새로운 자기자신 클래스객체 생성짱
+        Methods.classMethod(3);//새로운 객체인가?=>ㄴㄴ 스택영역에 있는거 호출하고 출력하고 끝(스택영역도없어짐), 객체가 생성된건 아님
+
 
 
     }

@@ -1,4 +1,4 @@
-package s02.p08;
+package s03.p01;
 
 /**
  * 클래스에대한 설명

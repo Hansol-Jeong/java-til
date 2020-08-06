@@ -14,6 +14,7 @@ public class Constructor {
     int x;
     int y;
     String z;
+    static int k;
 
     //public Constructor() {}//기본 생성자, 구현하지 않아도 알아서 생긴다.
     //private Constructor(){}//외부에서 호출이 불가능한 생성자도 있다.
@@ -30,6 +31,13 @@ public class Constructor {
         this.y=y;
         this.z=z;
     }
+    public Constructor(int x, int y, String z,int k){
+        this.x=x;
+        this.y=y;
+        this.z=z;
+        this.k=k;
+    }
+
     public Constructor(int a, int b){//생성자는 리턴타입은 받지 않는다.
 //        x=a;
 //        y=b;
@@ -46,5 +54,7 @@ class ConstructorTest{
         System.out.println(c1.x+","+c1.y+","+c1.z);
         Constructor c2=new Constructor(10,20);
         System.out.println(c2.x+","+c2.y+","+c2.z);
+        Constructor c3=new Constructor(10,20,"뽕빵삥",20);
+        System.out.println(c3.x+","+c3.y+","+c3.z+","+c3.k);
     }
 }
