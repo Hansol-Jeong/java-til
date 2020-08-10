@@ -104,10 +104,10 @@ class Vector3DTest {
         Vector3D v2 = new Vector3D(0.8f, 0.1f, 1.3f);
 
         v1.add(v2).print();
-        v2.sub(v1).print();
+        //v2.sub(v1).print();
         v1.add(0.2f).print();
-        v2.sub(0.05f).print();
-        v1.inner(v2).print();
+        //v2.sub(0.05f).print();
+       // v1.inner(v2).print();
         v1.mul(1.2f).print();
         System.out.println(v2.mag());
     }

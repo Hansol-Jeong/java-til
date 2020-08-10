@@ -2,17 +2,20 @@ package s04.p04;
 
 /**
  * super 키워드
- * this가 자기 자신의 객체를 참조하듯,
- * super는 부모 객체를 참조한다.
- *
- * super.super라는 식으로 부모의 부모는 참조할 수 없다.
- */
+         * this가 자기 자신의 객체를 참조하듯,
+         * super는 부모 객체를 참조한다.
+         *
+         * super.super라는 식으로 부모의 부모는 참조할 수 없다.
+         */
 
 class Foo {
     String x = "Foo";
 
     public Foo(String x) {
         this.x = x;
+    }
+    public String FooNum(int y){
+        return this.x+y;
     }
 }
 
@@ -37,19 +40,18 @@ class Bar extends Foo {
 
 // 아무것도 상속하지 않은 경우, Object 클래스를 상속하는 것과 같다.
 class Jaemi extends Object {
-}
-
-public class Main extends Jaemi {
-    public static void main(String[] args) {//static영역에서는 객체 생성전이라 extends된 함수도 쓰지못한다 쓸려면 static아닌데서 써야함 그게 main2()
-        Bar bar = new Bar("","");
-        bar.method();
-
-
-        // 자식 객체 생성을 하면,
-        // 부모 객체를 먼저 생성 하고, 그 다음에 자식 객체를 생성
+    public void method() {
 
     }
-    public void main2() {
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Bar bar = new Bar("Foo","Bar");
+        bar.method();
+        System.out.println(bar.FooNum(2));//부모의 메소드 사용가능
+        // 자식 객체 생성을 하면,
+        // 부모 객체를 먼저 생성 하고, 그 다음에 자식 객체를 생성
 
     }
 }

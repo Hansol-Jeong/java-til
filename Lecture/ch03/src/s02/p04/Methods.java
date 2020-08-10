@@ -132,8 +132,5 @@ public class Methods {
         Methods M= new Methods();
         M.instanceMethod(2);//새로운 자기자신 클래스객체 생성짱
         Methods.classMethod(3);//새로운 객체인가?=>ㄴㄴ 스택영역에 있는거 호출하고 출력하고 끝(스택영역도없어짐), 객체가 생성된건 아님
-
-
-
     }
 }

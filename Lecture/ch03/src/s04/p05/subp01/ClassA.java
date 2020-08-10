@@ -15,7 +15,7 @@ public class ClassA {
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
-        System.out.println(w);
+        System.out.println("w"+w);
 
         methodA();
         methodB();
@@ -36,5 +36,6 @@ class ClassATest { // 같은 패키지
         obj.methodB();
         obj.methodC();
         // obj.methodD(); private
+        obj.methodTest();//프라이빗을 포함한 퍼블릭은 쓸수 있다.퍼블릭으로 접근해서 그안의 프라이빗을 건든다
     }
 }
