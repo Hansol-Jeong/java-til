@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06f23e2-f1ee-409f-ac95-dec6b5274a2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HomeWork11_RE/HomeWork11_RE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homeWork12_RE/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homeWork12_RE/homeWork12_RE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork09/out/production/HomeWork09/META-INF/HomeWork09.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork09/out/production/HomeWork09/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork09/out/production/HomeWork09/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork09/out/production/HomeWork09/com/company/MyMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork09/out/production/HomeWork09/com/company/MyMath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork11/out/production/HomeWork12/com/company/Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork11/out/production/HomeWork12/com/company/Vector3D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork11/out/production/HomeWork12/com/company/Vector3DTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork11/out/production/HomeWork12/com/company/Vector3DTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork11/src/com/company/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork11/src/com/company/Vector3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s02/p04/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s02/p04/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Bar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Jaemi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Jaemi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/out/production/ch03/s04/p04/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/src/s02/p04/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/src/s02/p04/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p05/subp01/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p05/subp01/ClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p05/subp02/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture/ch03/src/s04/p05/subp02/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +46,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture/ch04" />
   </component>
   <component name="RunManager" selected="Application.AbstractClass">
     <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -126,6 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597046810761</updated>
       <workItem from="1597046817246" duration="2912000" />
+      <workItem from="1597056384803" duration="595000" />
     </task>
     <servers />
   </component>
@@ -142,16 +129,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1597047996966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597047996966" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597054144546">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597056858750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597054144546" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597056858750" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1597054146295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

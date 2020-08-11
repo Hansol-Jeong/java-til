@@ -1,13 +1,16 @@
 package p01;
 
 /**
- * AbstractStack->Stack
+ * AbstactStack
+ * -> Stack
  *
- * is_empty()
- * push()
- * pop()
- * peek()
+ * is_empty() :
+ * push() :
+ * pop() :
+ * peek() :
+ *
  */
+
 abstract class AbstractStack {
     protected int capacity;
     protected int top;

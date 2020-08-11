@@ -1,13 +1,12 @@
 package s01;
 
-import java.util.spi.AbstractResourceBundleProvider;
-
 /**
- * 추상 클래스(Abstract Class)
- * -  일부 메소드가 구현되지 않고, 선언만 되어있는 클래스
- * - 자식 클래스에서 이것을 반드시 구현하게끔 강제하는 것
- * - 필요한 모든 클래스가 구현될 수 있도록 하여 안정성을 높임
+ * 추상 클래스 (Abstract Class)
+ * - 일부 메소드가 구현되지 않고, 선언만 되어있는 클래스
+ *   - 자식 클래스에서 이것을 반드시 구현하게끔 강제하는 것
+ *   - 필요한 모든 클래스가 구현될 수 있도록 하여 안정성을 높임
  */
+
 abstract class AbstractFoo {
     int x, y;
 

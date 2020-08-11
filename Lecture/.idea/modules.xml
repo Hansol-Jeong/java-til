@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lecture.iml" filepath="$PROJECT_DIR$/.idea/Lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02.iml" filepath="$PROJECT_DIR$/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s01/ch02_s01.iml" filepath="$PROJECT_DIR$/ch02/ch02_s01/ch02_s01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s02/ch02_s02.iml" filepath="$PROJECT_DIR$/ch02/ch02_s02/ch02_s02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s03/ch02_s03.iml" filepath="$PROJECT_DIR$/ch02/ch02_s03/ch02_s03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s04/ch02_s04.iml" filepath="$PROJECT_DIR$/ch02/ch02_s04/ch02_s04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s06/ch02_s06.iml" filepath="$PROJECT_DIR$/ch02/ch02_s06/ch02_s06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s07/ch02_s07.iml" filepath="$PROJECT_DIR$/ch02/ch02_s07/ch02_s07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02_s08/ch02_s08.iml" filepath="$PROJECT_DIR$/ch02/ch02_s08/ch02_s08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04/ch04.iml" filepath="$PROJECT_DIR$/ch04/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch_s09/ch_s09.iml" filepath="$PROJECT_DIR$/ch02/ch_s09/ch_s09.iml" />
+    </modules>
+  </component>
+</project>
