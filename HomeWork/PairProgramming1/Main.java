@@ -29,7 +29,8 @@ public class Main {
 //        System.out.println();
         Gomoku gomoku = new Gomoku();
 //        gomoku.play(player,  player.pos);
+gomoku.printStatus();
+      // gomoku.initialize();
 
-        gomoku.initialize();
     }
 }
