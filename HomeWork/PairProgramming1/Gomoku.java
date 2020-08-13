@@ -83,8 +83,7 @@ public class Gomoku implements Simulatable, Winnable, Playable, Printable {
 
     @Override
     public void printStatus() {
-        posA[0].x=3;
-        posA[0].y=4;
+       
         int [][] show = new int[15][15];
         for(int i=0; i<15; i++)
             for(int j=0; j<15; j++)

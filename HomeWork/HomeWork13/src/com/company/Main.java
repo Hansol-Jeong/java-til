@@ -1,6 +1,8 @@
 package com.company;
 
 
+import java.util.ArrayList;
+
 /**
  * List 인터페이스를 구현하여 IntArrayList 클래스를 완성하시오.
  *
@@ -130,54 +132,29 @@ class IntArrayList implements List {
 }
 
 public class Main{
+    public static void printList(intArray<Integer> list) {
+        for (int i = 0; i < list.lengthNum(); i++) {
+            System.out.printf("%d ", list.get(i));
+        }
+        System.out.println("");
+    }
     public static void main(String[] args) {
+        ArrayList<Integer> list = new ArrayList<Integer>(10);
+        for (int i = 0; i < 20; i++) {
+            list.append(i);
+        }
+        printList(list);
 
-        IntArrayList intArrayList = new IntArrayList(3);
-        intArrayList.show();
+        list.remove(5);
+        printList(list);
 
+        list.prepend(1);
+        list.prepend(2);
+        list.prepend(3);
+        printList(list);
 
-        intArrayList.append(0);
-        intArrayList.show();
-
-
-        intArrayList.append(1);
-        intArrayList.show();
-
-
-        intArrayList.append(2);
-        intArrayList.show();
-
-
-        intArrayList.append(3);
-        intArrayList.show();
-
-
-        intArrayList.append(4);
-        intArrayList.show();
-
-
-        intArrayList.prepend(-1);
-        intArrayList.show();
-
-        intArrayList.prepend(-2);
-        intArrayList.show();
-
-
-        intArrayList.insert(0,-3);
-        intArrayList.show();
-
-
-        intArrayList.insert(4,0);
-        intArrayList.show();
-
-
-        intArrayList.remove(3);
-        intArrayList.show();
-
-
-        System.out.println(intArrayList.get(0));
-        intArrayList.length();
-
+        list.insert(5, 100);
+        printList(list);
 
 
     }
