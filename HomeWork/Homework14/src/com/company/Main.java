@@ -51,7 +51,7 @@ class ArrayList<T> implements List<T>{
         if(lastNum ==0)
             Solray[lastNum++]=value;
         else {
-            newSolray = (T[]) new Objects[lastNum+1];
+            newSolray = (T[]) new Object[lastNum+1];
             newSolray[0]=value;
             for (int i = 0; i < lastNum; i++)
                 newSolray[i+1]=Solray[i];
@@ -138,7 +138,7 @@ class GenericList {
 
         list.remove(5);
         printList(list);
-
+//
         list.prepend(1);
         list.prepend(2);
         list.prepend(3);

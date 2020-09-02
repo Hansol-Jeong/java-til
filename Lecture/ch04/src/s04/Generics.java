@@ -134,5 +134,9 @@ public class Generics {
         // 런타임에 결정이 된다.
         GenericMethod.staticMethod("abcd");
         GenericMethod.staticMethod(12412);
+        GenericMethod genericMethod = new GenericMethod();
+        genericMethod.method(23);
+        System.out.println(genericMethod.method(23));
+        //이걸 어떻게 출력하는가
     }
 }

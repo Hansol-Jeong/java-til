@@ -102,8 +102,10 @@ public class Enumeration {
 
         // 열거형 생성자와 멤버 변수 활용
         Family fam = Family.SON;
+        Family Fam = Family.SON;
         System.out.println(fam.getKoreanWord());
         fam.setKoreanWord("버린 자식");
+        Fam.setKoreanWord("거둬진 자식");
         System.out.println(fam.getKoreanWord());
         System.out.println(Family.SON.getKoreanWord());
     }

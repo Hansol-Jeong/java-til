@@ -7,7 +7,6 @@ public class Gomoku implements Simulatable, Winnable, Playable, Printable {
     int sizeofI;
     int sizeofJ;
     int count = 1;
-    boolean check3by3=true;
     char [][] met;
 
     boolean isFinished = false;
@@ -57,7 +56,7 @@ public class Gomoku implements Simulatable, Winnable, Playable, Printable {
                     break;
                 }
                 else {
-                    System.out.println("33모델이야 다시해");
+                    System.out.println("33모델, 또는 영역을 벗어낫습니다 다시해");
                     continue;
                 }
             }
@@ -69,7 +68,7 @@ public class Gomoku implements Simulatable, Winnable, Playable, Printable {
                     break;
                 }
                 else {
-                    System.out.println("33모델이야 다시해");
+                    System.out.println("33모델, 또는 영역을 벗어낫습니다 다시해");
                     continue;
                 }
             }
@@ -82,112 +81,119 @@ public class Gomoku implements Simulatable, Winnable, Playable, Printable {
         }
     }
 
-    private boolean check3by3(Position pos) {//33인지 아닌지 체크
+    private boolean check3by3(Position pos) throws ArrayIndexOutOfBoundsException {//33인지 아닌지 체크
         //33이라면 false
-        int oCount=0;
-        int xCount=0;
-        for(int i = pos.getX()-1;i<=pos.getX()+1;i++)
-            for(int j = pos.getY()-1;j<=pos.getY()+1;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX()-1;i<=pos.getX()+1;i++)
-            for(int j = pos.getY()-2;j<=pos.getY();j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX()-1;i<=pos.getX()+1;i++)
-            for(int j = pos.getY();j<=pos.getY()+2;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
+        try {
+            int oCount = 0;
+            int xCount = 0;
+            for (int i = pos.getX() - 1; i <= pos.getX() + 1; i++)
+                for (int j = pos.getY() - 1; j <= pos.getY() + 1; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX() - 1; i <= pos.getX() + 1; i++)
+                for (int j = pos.getY() - 2; j <= pos.getY(); j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX() - 1; i <= pos.getX() + 1; i++)
+                for (int j = pos.getY(); j <= pos.getY() + 2; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
 
-        for(int i = pos.getX()-2;i<=pos.getX();i++)
-            for(int j = pos.getY()-1;j<=pos.getY()+1;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX()-2;i<=pos.getX();i++)
-            for(int j = pos.getY()-2;j<=pos.getY();j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX()-2;i<=pos.getX();i++)
-            for(int j = pos.getY();j<=pos.getY()+2;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
+            for (int i = pos.getX() - 2; i <= pos.getX(); i++)
+                for (int j = pos.getY() - 1; j <= pos.getY() + 1; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX() - 2; i <= pos.getX(); i++)
+                for (int j = pos.getY() - 2; j <= pos.getY(); j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX() - 2; i <= pos.getX(); i++)
+                for (int j = pos.getY(); j <= pos.getY() + 2; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
 
-        for(int i = pos.getX();i<=pos.getX()+2;i++)
-            for(int j = pos.getY()-1;j<=pos.getY()+1;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
+            for (int i = pos.getX(); i <= pos.getX() + 2; i++)
+                for (int j = pos.getY() - 1; j <= pos.getY() + 1; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX(); i <= pos.getX() + 2; i++)
+                for (int j = pos.getY() - 2; j <= pos.getY(); j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            for (int i = pos.getX(); i <= pos.getX() + 2; i++)
+                for (int j = pos.getY(); j <= pos.getY() + 2; j++) {
+                    if (met[i][j] == 'o')
+                        oCount++;
+                    else if (met[i][j] == 'x')
+                        xCount++;
+                }
+            if (oCount == 5 || xCount == 5)
+                return false;
+            oCount = 0;
+            xCount = 0;
+            return true;
+        }
+        catch (ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("영역을 벗어낫습니다.");
             return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX();i<=pos.getX()+2;i++)
-            for(int j = pos.getY()-2;j<=pos.getY();j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        for(int i = pos.getX();i<=pos.getX()+2;i++)
-            for(int j = pos.getY();j<=pos.getY()+2;j++){
-                if(met[i][j]=='o')
-                    oCount++;
-                else if(met[i][j]=='x')
-                    xCount++;
-            }
-        if(oCount==5||xCount==5)
-            return false;
-        oCount=0;
-        xCount=0;
-        return true;ㅇ
+        }
     }
 
 //    private void check3by3(Position pos) {
