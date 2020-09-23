@@ -1,15 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="089b576f-7585-4e25-a80c-b4557b380d9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PairProgramming1/Gomoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/PairProgramming1/Gomoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PairProgramming1/out/production/PairProgramming1/Gomoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/PairProgramming1/out/production/PairProgramming1/Gomoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/AbstractClassPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/AbstractClassPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/AbstractStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/AbstractStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/p01/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/AbstractClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/AbstractFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/AbstractFoo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch04/out/production/ch04/s01/Foo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/2XNtiling_2/2XNtiling_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Demo/src/com/company/Farthest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Demo/src/com/company/SkillTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Demo/src/com/company/Sortting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Demo/src/com/company/SpyClothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s05.p01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/2XNtiling/2XNtiling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/2XNtiling/2XNtiling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/Nexpress/Nexpress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/Nexpress/Nexpress.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/PerfectRect/PerfectRect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/PerfectRect/PerfectRect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/SkillTree/SkillTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/SkillTree/SkillTree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Change/Change.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6_19/Exercise6_19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6_22/Exercise6_22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6_23/Exercise6_23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise6_4/Exercise6_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork08/HomeWork08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork08/HomeWork08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork09/HomeWork09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork09/HomeWork09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork11_RE/HomeWork11_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork11_RE/HomeWork11_RE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork12/HomeWork12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork12/HomeWork12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/HomeWork13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/HomeWork13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork2/HomeWork2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/HomeWork2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork6/HomeWork6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork6/HomeWork6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork7/HomeWork7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork7/HomeWork7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework14/Homework14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework14/Homework14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeWork12_RE/homeWork12_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork12_RE/homeWork12_RE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticTacToe/ticTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ticTacToe/ticTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HowToMakeMd/howToMakeMd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HowToMakeMd/howToMakeMd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Change/Change.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Change/Change.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_19/Exercise6_19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_19/Exercise6_19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_22/Exercise6_22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_22/Exercise6_22.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_23/Exercise6_23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_23/Exercise6_23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_4/Exercise6_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_4/Exercise6_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/PlayingCard/PlayingCard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/PlayingCard/PlayingCard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Sutda/Sutda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Sutda/Sutda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/class Exercise6_4/class Exercise6_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/class Exercise6_4/class Exercise6_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture/ch05/ch05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05/ch05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture/ch05_RE/ch05_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05_RE/ch05_RE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nexpress/Nexpress.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCard/PlayingCard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Practice03NDArray/Practice03NDArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice03NDArray/Practice03NDArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Practice1Loop/Practice1Loop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice1Loop/Practice1Loop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Practice2Array/Practice2Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice2Array/Practice2Array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/java-practice/java-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/java-practice/java-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_Re/Practice03NDArray_Re/Practice03NDArray_Re.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Re/Practice03NDArray_Re/Practice03NDArray_Re.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_Re/Practice2Array_Re/Practice2Array_Re.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Re/Practice2Array_Re/Practice2Array_Re.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkillTree/SkillTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05_RE/ch05_RE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class Exercise6_4/class Exercise6_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-workspace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-workspace/src/com/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/META-INF/ticTacToe.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/Chapters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/DecideTurns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/GameType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/Initialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/InputToField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/IsAllUsed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/LoadingView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/Play.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/ShowField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/com/company/WinnerEmerged.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/out/production/ticTacToe/ticTacToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/Chapters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/DecideTurns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/GameType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/Initialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/InputToField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/IsAllUsed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/LoadingView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/Play.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/ShowField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/com/company/WinnerEmerged.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/src/ticTacToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ticTacToe/ticTacToe.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +147,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -56,20 +177,38 @@
       <updated>1597213183316</updated>
       <workItem from="1597213184800" duration="342000" />
       <workItem from="1597303064852" duration="340000" />
+      <workItem from="1600815839405" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1597303071537">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600815964893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="440" y="94" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600815964893" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1600816067841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600816067841" />
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597303071537" />
-    <state x="339" y="130" key="new project wizard" timestamp="1597213359507">
+    <state x="339" y="130" key="new project wizard" timestamp="1600816068985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="339" y="130" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600816068985" />
     <state x="339" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597213359507" />
   </component>
 </project>
