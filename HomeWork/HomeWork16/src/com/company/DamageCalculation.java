@@ -75,14 +75,22 @@ class Player {
     }
 
     public void setTotalAtk() {
+        currentWeapon=weaponCase.peek();
+        totalAtk=weaponCase.peek().atk;
+
         if (items.size()!=0) {
             if(items.contains(Item.MUSHROOM)) {
                 currentWeapon.atk+=20;
+                System.out.println(1);
             }
-            if(items.contains(Item.BLACK_POTION))
-                totalAtk=(int)(currentWeapon.atk*1.1);
-            if(items.contains(Item.WHITE_POTION))
-                totalAtk+=200;
+            if(items.contains(Item.BLACK_POTION)) {
+                totalAtk = (int) (currentWeapon.atk * 1.1);
+                System.out.println(2);
+            }
+            if(items.contains(Item.WHITE_POTION)) {
+                totalAtk += 200;
+                System.out.println(3);
+            }
         }
         else totalAtk=currentWeapon.atk;
     }
@@ -91,7 +99,7 @@ class Player {
 public class DamageCalculation {
     public static void main(String[] args) {
         // 무기 및 아이템 장착/사용 시나리오 및 플레이어 공격력 출력
-        Consumer<Weapon> showWeapon = (s) -> System.out.println(s);
+        Consumer<Weapon> showWeapon = s-> System.out.println(s);
         Consumer<String> cunsumer = (s) -> System.out.println(s);
         Player player = new Player();
         player.weaponCase.add(Weapon.BARE_HANDS);
@@ -111,7 +119,7 @@ public class DamageCalculation {
         player.items.add(Item.MUSHROOM);//무기공격력 20증가 따라서 무기공격력 270에 27증가하면 297
         player.setTotalAtk();
         System.out.println(player.totalAtk);
-        player.items.add(Item.WHITE_POTION);//마지막데미지 200증가 따라서 497이 나오지않네?
+        player.items.add(Item.WHITE_POTION);//마지막데미지 200증가 따라서 497이 나오지않네? 어쨰서냐
         player.setTotalAtk();
         System.out.println(player.totalAtk);
         for (Item s:player.items) {
