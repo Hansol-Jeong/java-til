@@ -31,5 +31,8 @@ public class Main {
         // PToQFunction : P -> Q로 매핑하는 함수
         IntToDoubleFunction funcFive;
         // IntToIntFunction은 없다
+
+        Function<Integer, Integer> math = s-> (int)(Math.random()*s);
+        System.out.println(math.apply(3));
     }
 }

@@ -24,6 +24,9 @@ public class Main {
         IntUnaryOperator op = value -> value * 10;
         System.out.println(op.applyAsInt(5));
         // LongUnaryOperator, DoubleUnaryOperator
+        IntUnaryOperator op3 = value->value+1;
+        IntUnaryOperator op4= op3.andThen(op);
+        System.out.println(op4.applyAsInt(5));
 
         IntBinaryOperator op2 = (v1, v2) -> v1 * v2;
         System.out.println(op2.applyAsInt(3, 5));

@@ -1,5 +1,6 @@
 package com.company.s05.p09;
 import java.util.function.BiPredicate;
+import java.util.function.DoublePredicate;
 import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 
@@ -21,6 +22,10 @@ import java.util.function.Predicate;
 
             IntPredicate pred3 = x -> x > 0;
             // LongPredicate, DoublePredicate
+            DoublePredicate pred0 = value ->value >0.5;
+            DoublePredicate pred1 = value -> value <1.2;
+            DoublePredicate doublePredicate = pred0.and(pred1).negate().or(pred0.negate());
+            System.out.println(doublePredicate.test(0.8));
         }
     }
 
