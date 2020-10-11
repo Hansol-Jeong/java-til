@@ -1,6 +1,10 @@
 package com.company;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
+import java.util.function.Function;
+import java.util.stream.Stream;
 
 public class Main {
     Scanner scan = new Scanner(System.in);
@@ -54,7 +58,9 @@ public class Main {
 
             new BattlePhase(player,new Forest_Ghoul());
             consumerList.SpeedWagon.accept("흥, 어느정도 애송이티는 벗엇군. 마침 저기 '배회하는 구울'이 보이는걸. 그럼 잘해보라구.");
-
+            Function<String, Integer> parser = (s -> Integer.parseInt(s));
+            Stream<String> stream = Stream.of("Algorithm","Java","Backend");
+            stream.filter(s->s.startsWith("A")).peek(s-> System.out.println(s)).filter(s->s.length()>4).peek(s-> System.out.println(s));
 
         }
     }

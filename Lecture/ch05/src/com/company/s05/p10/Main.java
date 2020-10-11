@@ -35,6 +35,7 @@ public class Main {
         // 최종 조합 결과는 Function 계열로 받아 주어야 함.
         BiFunction<String, String, String> op2 =  op0.andThen(op1);
         Function<String, String> op3 = op1.compose(fnc0);
+        Math
 
 
     }
