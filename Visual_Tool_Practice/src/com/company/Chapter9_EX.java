@@ -1,10 +1,7 @@
 package com.company;
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
-import java.net.JarURLConnection;
-import java.util.concurrent.Flow;
 
 class Ex2 {
     public Ex2() {
