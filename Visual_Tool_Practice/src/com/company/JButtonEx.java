@@ -15,7 +15,8 @@ public class JButtonEx {
         button.setPressedIcon(new ImageIcon("img\\6064050.jpg"));
         button.setRolloverIcon(new ImageIcon("img\\cry.jpg"));
         c.add(button);
-
+        JLabel label = new JLabel("dd");
+        label.setHorizontalAlignment(SwingConstants.CENTER);
         frame.setSize(300,300);
         frame.setVisible(true);
     }

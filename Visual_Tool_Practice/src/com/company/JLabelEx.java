@@ -15,6 +15,9 @@ public class JLabelEx {
         JLabel imageLabel = new JLabel(imageIcon);
 
         JLabel label = new JLabel("홀리씻",new ImageIcon("img\\No god.jpg"),SwingConstants.CENTER);
+        label.setHorizontalAlignment(SwingConstants.RIGHT);
+        label.setBackground(Color.YELLOW);
+        label.setOpaque(true);
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
         panel.add(textLabel);
