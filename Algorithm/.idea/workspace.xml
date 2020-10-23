@@ -20,60 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdae3e0-8ad3-426c-81e2-72932487819e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2XNtiling_2/2XNtiling_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/com/company/Farthest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/com/company/SkillTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/com/company/Sortting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/com/company/SpyClothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork/HomeWork15/HomeWork15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s05.p01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2XNtiling/2XNtiling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2XNtiling/2XNtiling.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nexpress/Nexpress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Nexpress/Nexpress.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PerfectRect/PerfectRect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectRect/PerfectRect.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkillTree/SkillTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SkillTree/SkillTree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Change/Change.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm2/src/Crain/Crain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm2/src/NumSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/DateDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/RunProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/ShowingCalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GaegaeBu_V2/src/com/company/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_19/Exercise6_19.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_22/Exercise6_22.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_23/Exercise6_23.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_4/Exercise6_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork08/HomeWork08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork08/HomeWork08.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork09/HomeWork09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork09/HomeWork09.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork11_RE/HomeWork11_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork11_RE/HomeWork11_RE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork12/HomeWork12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork12/HomeWork12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork13/HomeWork13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork13/HomeWork13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork2/HomeWork2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork2/HomeWork2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork3/HomeWork3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork3/HomeWork3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork4/HomeWork4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork4/HomeWork4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork6/HomeWork6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork6/HomeWork6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/HomeWork7/HomeWork7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/HomeWork7/HomeWork7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/Homework14/Homework14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/Homework14/Homework14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/homeWork12_RE/homeWork12_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/homeWork12_RE/homeWork12_RE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork/ticTacToe/ticTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/ticTacToe/ticTacToe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HowToMakeMd/howToMakeMd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HowToMakeMd/howToMakeMd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Change/Change.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Change/Change.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_19/Exercise6_19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_19/Exercise6_19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_22/Exercise6_22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_22/Exercise6_22.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_23/Exercise6_23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_23/Exercise6_23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_4/Exercise6_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Exercise6_4/Exercise6_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/PlayingCard/PlayingCard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/PlayingCard/PlayingCard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/Sutda/Sutda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/Sutda/Sutda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_with_Ex/class Exercise6_4/class Exercise6_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_with_Ex/class Exercise6_4/class Exercise6_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch05/ch05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05/ch05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch05_RE/ch05_RE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05_RE/ch05_RE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s11/ForYouson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s11/ForYouson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Nexpress/Nexpress.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlayingCard/PlayingCard.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/Practice03NDArray/Practice03NDArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice03NDArray/Practice03NDArray.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/Practice1Loop/Practice1Loop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice1Loop/Practice1Loop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/Practice2Array/Practice2Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice2Array/Practice2Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/java-practice/java-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/java-practice/java-practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_Re/Practice03NDArray_Re/Practice03NDArray_Re.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Re/Practice03NDArray_Re/Practice03NDArray_Re.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_Re/Practice2Array_Re/Practice2Array_Re.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Re/Practice2Array_Re/Practice2Array_Re.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SkillTree/SkillTree.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch05_RE/ch05_RE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class Exercise6_4/class Exercise6_4.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-workspace/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-workspace/src/com/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ticTacToe/.idea/.gitignore" beforeDir="false" />
@@ -128,6 +92,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -144,7 +115,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -175,6 +149,9 @@
       <updated>1599913809820</updated>
       <workItem from="1599913812102" duration="901000" />
       <workItem from="1600816610816" duration="1714000" />
+      <workItem from="1603475067932" duration="119000" />
+      <workItem from="1603475257719" duration="869000" />
+      <workItem from="1603480974154" duration="57000" />
     </task>
     <servers />
   </component>
@@ -194,13 +171,23 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1600818631699">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1603475718649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1603475718649" />
+    <state x="725" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603475321235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603475321235" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603475902310">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600818631699" />
-    <state x="-1581" y="130" key="new project wizard" timestamp="1599915014210">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603475902310" />
+    <state x="339" y="130" key="new project wizard" timestamp="1603475903482">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1581" y="130" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1599915014210" />
+    <state x="339" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603475903482" />
   </component>
 </project>
