@@ -15,7 +15,7 @@ public class Main {
 //        System.out.println(Byte.BYTES);//1byte=8bit
 //        byte byteValue=42;
 //        System.out.println(byteValue);
-//        System.out.println(Byte.MAX_VALUE);
+        System.out.println(Byte.MAX_VALUE);
 //        System.out.println(Byte.MIN_VALUE);
 //        System.out.println("");
 //        //-128~127=256개=2^8=8바이트
@@ -153,9 +153,9 @@ public class Main {
         //intVal=(int)longVal;
         //System.out.println(intVal);//다운캐스팅하면서 상위비트 소실
 
-        char charVal=4123;
-        byte byteVal=(byte)charVal;
-        System.out.println(byteVal);
+//        char charVal=4123;
+//        byte byteVal=(byte)charVal;
+//        System.out.println(byteVal);
 
 
 

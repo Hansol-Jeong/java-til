@@ -20,20 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdae3e0-8ad3-426c-81e2-72932487819e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm2/src/Crain/Crain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm2/src/NumSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/DateDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/RunProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GaegaeBu/src/com/company/ShowingCalender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GaegaeBu_V2/src/com/company/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm2/src/One_Plus_One/One_Plus_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p01/Scorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p01/ScoreCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p02/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p03/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p04/Http.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p04/HttpImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p04/WebParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/src/com/company/p05/RomanConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/test/com/company/p01/ScoreCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/test/com/company/p02/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/test/com/company/p04/WebParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture/java-unittest/test/com/company/p05/RomanConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_19/Exercise6_19.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_22/Exercise6_22.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_23/Exercise6_23.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise6_4/Exercise6_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s11/ForYouson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05/src/com/company/s11/ForYouson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture/ch02/ch02_s02/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch02/ch02_s02/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture/ch05/out/production/ch05/com/company/s14/p10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture/ch05/out/production/ch05/com/company/s14/p10/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Nexpress/Nexpress.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlayingCard/PlayingCard.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SkillTree/SkillTree.iml" beforeDir="false" />
@@ -115,7 +122,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -152,6 +159,7 @@
       <workItem from="1603475067932" duration="119000" />
       <workItem from="1603475257719" duration="869000" />
       <workItem from="1603480974154" duration="57000" />
+      <workItem from="1604872056606" duration="1750000" />
     </task>
     <servers />
   </component>
@@ -179,11 +187,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603475321235" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603475902310">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604872402657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600818631699" />
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603475902310" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604872402657" />
     <state x="339" y="130" key="new project wizard" timestamp="1603475903482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
