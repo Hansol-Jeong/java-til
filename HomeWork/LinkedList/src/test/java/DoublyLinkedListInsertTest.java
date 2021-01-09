@@ -11,7 +11,7 @@ public class DoublyLinkedListInsertTest {
     }
     @Test
     public void naiveInsertTest() {
-        doubLinkedList.insert(1, 1);
+        doubLinkedList.prepend(1);
         doubLinkedList.insert(1,3);
         doubLinkedList.insert(1,2);
         doubLinkedList.insert(1,4);
@@ -26,7 +26,7 @@ for (int i = 0; i< doubLinkedList.size()+1; i++) {
 
     @Test
     public void InsertSizeTest() {
-        doubLinkedList.insert(1, 1);
+        doubLinkedList.prepend(1);
         doubLinkedList.insert(1,3);
         doubLinkedList.insert(1,2);
         doubLinkedList.insert(1,4);
@@ -36,7 +36,7 @@ for (int i = 0; i< doubLinkedList.size()+1; i++) {
 
     @Test(expected = IndexOutOfBoundsException.class)
     public void IndexOutOfBoundsExceptionTest() {
-        doubLinkedList.insert(1,1);
+        doubLinkedList.prepend(1);
         doubLinkedList.insert(1,2);
 //        Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(1));
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(2));
