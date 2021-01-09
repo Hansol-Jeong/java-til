@@ -38,7 +38,6 @@ for (int i = 0; i< doubLinkedList.size()+1; i++) {
     public void IndexOutOfBoundsExceptionTest() {
         doubLinkedList.prepend(1);
         doubLinkedList.insert(1,2);
-//        Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(1));
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(2));
         doubLinkedList.insert(3,1);
     }

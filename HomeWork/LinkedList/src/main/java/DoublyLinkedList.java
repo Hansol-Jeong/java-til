@@ -13,7 +13,7 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
         private Node next;
     }
 
-    public Node head; //이건 도대체 왜못쓰는데
+    public Node head; //이건 도대체 왜못쓰는데 -> 질문
     public Node tail;
 
     public DoublyLinkedList() {
@@ -29,7 +29,6 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
     public void prepend(T value) {
         if(head == null) {
             head = new Node();
-//            head = new Node(null, null, new Node(value, head, null));
             Node newNode = new Node(value, head, null);
             head.setNext(newNode);
         }
@@ -37,7 +36,6 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
             Node newNode = new Node(value, head, head.next);
             head.next.setPrev(newNode);
             head.next = newNode;
-            //꼬리부분 설정부터 다시해해
        }
         settingTail();
 
@@ -72,7 +70,6 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
     @Override
     public T access(int index) {
         Node currentNode = head;
-        //인덱스만큼 이동한다
         if(index <= size() + 1) {
             for (int i = 0; i < index; i++) {
                 currentNode = currentNode.next;
@@ -85,7 +82,6 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
     }
     public Node accessNode(int index) {
         Node currentNode = head;
-        //인덱스만큼 이동한다
         if(index <= size() + 1) {
             for (int i = 0; i < index; i++) {
                 currentNode = currentNode.next;
