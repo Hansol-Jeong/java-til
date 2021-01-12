@@ -3,15 +3,11 @@ import lombok.*;
 @AllArgsConstructor
 @Setter
 @Getter
+@Builder
 class Node {
     private int value;
     public Node left;
     public Node right;
-
-    public Node(Node left, Node right) {
-        this.left = left;
-        this.right = right;
-    }
 }
 
 public class BinaryTree_NodeBase implements Tree{
@@ -116,7 +112,10 @@ public class BinaryTree_NodeBase implements Tree{
 
         Node [] nodeArray = new Node[array.length];
         for(int i = 0; i < nodeArray.length; i++) {// 이렇게 나눠서 하면돼 -> 예상: nodeArray[]배열 값 내부가 null이어서 참조를 못했나?
-            nodeArray[i] = new Node(array[i], null, null);
+            nodeArray[i] = new Node.NodeBuilder()
+                                .value(array[i])
+                                .left(null)
+                                .right(null).build();
         }
         for(int i = 0; i < nodeArray.length; i++) {
             int left = 2 * i + 1;
