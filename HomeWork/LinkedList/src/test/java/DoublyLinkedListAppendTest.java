@@ -24,7 +24,7 @@ public class DoublyLinkedListAppendTest {
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(3));
         Assert.assertThat(doubLinkedList.access(2), CoreMatchers.is(1));
     }
-    @Test(expected = NullPointerException.class)
+    @Test(expected = IndexOutOfBoundsException.class)
     public void prependHead_TailTest() {
         doubLinkedList.append(3);
         doubLinkedList.append(1);

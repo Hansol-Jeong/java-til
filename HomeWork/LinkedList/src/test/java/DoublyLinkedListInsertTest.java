@@ -41,4 +41,5 @@ for (int i = 0; i< doubLinkedList.size()+1; i++) {
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(2));
         doubLinkedList.insert(3,1);
     }
+
 }

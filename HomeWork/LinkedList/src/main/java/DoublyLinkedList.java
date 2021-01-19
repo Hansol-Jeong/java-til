@@ -48,7 +48,7 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
         } else {
             Node newNode = new Node(value, tail.prev, tail);
             tail.prev.next = newNode;
-            tail.prev = newNode;
+            tail.prev = newNode;//tail설정
         }
     }
 
@@ -63,7 +63,7 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
             head.prev = null;
         }
         else {
-            throw new NullPointerException();
+            throw new IndexOutOfBoundsException();
         }
     }
 
@@ -77,7 +77,7 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
             return currentNode.value;
         }
         else {
-            throw new NullPointerException();
+            throw new IndexOutOfBoundsException();
         }
     }
     public Node accessNode(int index) {
@@ -89,16 +89,17 @@ public class DoublyLinkedList<T> implements LinkedList<T>{
             return currentNode;
         }
         else {
-            throw new NullPointerException();
+            throw new IndexOutOfBoundsException();
         }
     }
 
     @Override
     public boolean insert(int index, T value) {
         if(index >= 1 && index <= size()) {
-            Node newNode = new Node(value, accessNode(index-1), accessNode(index));
-            accessNode(index-1).next = newNode;
-            accessNode(index).prev = newNode;
+            Node current = accessNode(index);
+            Node newNode = new Node(value, current.prev, current);//
+            current.prev.next = newNode;
+            current.prev = newNode;
         return true;
         }
         else {

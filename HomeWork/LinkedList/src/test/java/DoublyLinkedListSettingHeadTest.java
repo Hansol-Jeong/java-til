@@ -18,7 +18,7 @@ public class DoublyLinkedListSettingHeadTest {
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(1));
     }
 
-    @Test(expected = NullPointerException.class)
+    @Test(expected = IndexOutOfBoundsException.class)
     public void settingHeadIndexOverSizeTest() {
         doubLinkedList.append(3);
         doubLinkedList.append(1);

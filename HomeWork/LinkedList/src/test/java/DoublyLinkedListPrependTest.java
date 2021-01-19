@@ -14,7 +14,7 @@ public class DoublyLinkedListPrependTest {
     public void isEmptyTest() {
 
         Assert.assertThat(doubLinkedList.isEmpty(), CoreMatchers.is(true));
-    }
+    }//지워 졌을 경우
 
     @Test
     public void prependSizeTest() {//도대체 왜 doub~.getHead가 안되는건데
@@ -45,7 +45,7 @@ public class DoublyLinkedListPrependTest {
             System.out.println(doubLinkedList.access(i));
         }
 
-//        Assert.assertThat(doubLinkedList.head.next); 이게 왜안됭애ㅑㅓㄷ래매럼ㅈ딜
+//        Assert.assertThat(doubLinkedList.head.next);
 //        Assert.assertThat(doubLinkedList.tail.prev);
     }
 }

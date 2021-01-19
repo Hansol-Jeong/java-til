@@ -10,7 +10,7 @@ public class LinkedListLastTest {
         doubLinkedList = new DoublyLinkedList<>();
     }
     @Test
-    public void lastTest() {
+    public void integrationTest() {
         Assert.assertThat(doubLinkedList.isEmpty(), CoreMatchers.is(true));
         doubLinkedList.prepend(1);
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(1));
@@ -22,6 +22,5 @@ public class LinkedListLastTest {
         Assert.assertThat(doubLinkedList.access(1), CoreMatchers.is(3));
         Assert.assertThat(doubLinkedList.size(), CoreMatchers.is(2));
         doubLinkedList.print();
-
     }
 }
